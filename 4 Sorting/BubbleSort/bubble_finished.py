@@ -1,5 +1,5 @@
 # Bubble sort algorithm
-
+#complexity is O(n^2)
 
 def bubbleSort(dataset):
     # start with the array length and decrement each time

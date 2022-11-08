@@ -14,5 +14,7 @@ def gcd(a, b):
 
 
 # try out the function with a few examples
+
+print(gcd(96, 60))  # should be 12
 print(gcd(60, 96))  # should be 12
 print(gcd(20, 8))   # should be 4
